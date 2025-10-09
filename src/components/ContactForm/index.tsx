@@ -6,7 +6,7 @@ import { isEmpty } from 'lodash';
 import { SecondaryButton } from '../../common/common.styles';
 import useIsMobile from '../../hooks/useIsMobile';
 
-const whatsappNumber = '9974927198';
+const whatsappNumber = '+919974927198';
 
 export const ContactForm = () => {
   const isMobile = useIsMobile();
