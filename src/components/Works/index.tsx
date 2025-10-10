@@ -51,7 +51,7 @@ export const Works = () => {
         'A modern single-page gym website featuring dynamic sections for services, class schedules, trainer profiles, and membership plans. Built with responsive design to showcase the gym\'s facilities and encourage visitor engagement.',
       imgUrl: project5,
       skills: ['Reactjs', 'Typescript', 'ChakraUI'],
-      link: 'https://breville.com/en-us',
+      link: 'https://core-fit-gym.netlify.app',
     },
   ];
   return (
