@@ -39,7 +39,8 @@ export const ContactUs = () => {
                 <EmailIcon />
                 <SectionHeading>Support</SectionHeading>
               </IconValueBox>
-              <ValueBox>devnestinfotech@gmail.com</ValueBox>
+              <ValueBox>hitens663@gmail.com</ValueBox>
+              {/* <ValueBox>devnestinfotech@gmail.com</ValueBox> */}
             </Box>
             <Box>
               <IconValueBox>

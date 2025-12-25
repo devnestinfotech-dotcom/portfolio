@@ -14,12 +14,12 @@ export const Footer = () => {
       <Description>
         © 2025 Hiten. Design & Develop with <FavoriteIcon style={{ color: 'red' }} />
       </Description>
-      <SocialMediaLinksWrapper>
+      {/* <SocialMediaLinksWrapper>
         <FacebookIcon onClick={() => window.open('https://www.facebook.com/profile.php?id=61581727723864', '_blank')} style={{ cursor: 'pointer' }} />
         <XIcon onClick={() => window.open('https://x.com/DevNestInfoTech', '_blank')} style={{ cursor: 'pointer' }} />
         <InstagramIcon onClick={() => window.open('https://www.instagram.com/devnestinfotech/', '_blank')} style={{ cursor: 'pointer' }} />
         <LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/devnesttech-infotech-a96553389/', '_blank')} style={{ cursor: 'pointer' }} />
-      </SocialMediaLinksWrapper>
+      </SocialMediaLinksWrapper> */}
     </SectionWrapper>
   );
 };

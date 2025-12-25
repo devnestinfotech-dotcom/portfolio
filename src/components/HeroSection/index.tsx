@@ -44,7 +44,7 @@ export const HeroSection = () => {
           <MeName>
             <TypewriterComponent
               options={{
-                strings: ['Hiten Savaliya'],
+                strings: ['Hiten Patel'],
                 autoStart: true,
                 loop: true,
               }}
@@ -55,7 +55,7 @@ export const HeroSection = () => {
             my work. I am also interested in crafting beautiful minimal products and exploring new
             worlds.
           </Description>
-          <SocialMediaLinks />
+          {/* <SocialMediaLinks /> */}
           <ButtonWrapper>
             <PrimaryButton onClick={() => scrollToContact()}>Hire Me</PrimaryButton>
             <SecondaryButton onClick={() => scrollToProjects()}>See My work</SecondaryButton>
